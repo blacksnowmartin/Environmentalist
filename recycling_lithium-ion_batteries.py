@@ -24,3 +24,5 @@ battery.discharge(30)
 
 # Recycling the battery
 battery.recycle()
+
+#Clean environment 
