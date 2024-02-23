@@ -30,4 +30,5 @@ for _ in range(5):
     monitor.analyze_emission_data()
     monitor.regulate_emissions()
     time.sleep(2)
+# mone ji
 
